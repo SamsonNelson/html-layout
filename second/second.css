@@ -1,0 +1,28 @@
+.blue {
+  background-color: rgb(0, 153, 255);
+  float: left;
+  height: 800px;
+  width: 33%;
+}
+.teal {
+  background-color: rgb(0, 230, 184);
+  float: left;
+  height: 800px;
+  width: 33%;
+}
+.green { 
+  background-color: rgb(171, 207, 135);
+  float: left;
+  height: 100px;
+  width: 33%;
+  padding-top: 700px;
+}
+.red {
+  background-color: red;
+  height: 100px;
+  margin-top; 700px;
+  color: white;
+  text-align: center;
+  line-height: 100px;
+  font-size: 30px;
+}
